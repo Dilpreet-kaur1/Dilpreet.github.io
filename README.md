@@ -1,5 +1,5 @@
 # Dilpreet.github.io
-This is my first GitHub website
+I'm Dilpreet Kaur 
 
 I'm student of BTech CSE branch in gne college.
 
