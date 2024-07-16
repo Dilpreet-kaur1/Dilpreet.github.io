@@ -3,7 +3,21 @@ This is my first GitHub website
 
 I'm student of BTech CSE branch in gne college.
 
-Introduction Activity Report:
+| Marksheet: |
+| ----------- |
+| Sr.no | Subject| Marks | Grade |
+| ----------- | ----------- | ----------- | ----------- |
+| 1. | General English | 83 | A |
+| 2. | General Punjabi | 97 | A+ |
+| 3. | Physics | 91 | A+ |
+| 4. | Chemistry | 91 | A+ |
+| 5. | Mathematics | 93 | A+ |
+
+Result : PASS 455 
+Overall grade : A+
+
+| Introduction Activity Report: |
+| ----------- |
 | Date | Guest | Lesson  |
 | ----------- | ----------- | ----------- |
 | 10.07.2024 | Er. Jiwandeep Singh | Look for opportunity and grab it . How to enjoy college life and how to make future  |
