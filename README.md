@@ -1,7 +1,7 @@
 # Dilpreet.github.io
 I'm Dilpreet Kaur 
 
-I'm student of BTech CSE branch in gne college.
+I'm student of BTech CSE branch in GNE college.
 
 Marksheet: 
 | Sr.no | Subject| Marks | Grade |
