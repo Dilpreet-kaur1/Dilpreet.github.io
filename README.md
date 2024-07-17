@@ -14,7 +14,7 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 
 **Result** : PASS 455 
 
-Overall grade : A+
+**Overall grade** : A+
 
 Introduction Activity Report: 
 | Date | Guest | Lesson  |
