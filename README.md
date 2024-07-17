@@ -16,7 +16,7 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 
 **Overall grade** : A+
 
-Introduction Activity Report: 
+**Introduction Activity Report**: 
 | Date | Guest | Lesson  |
 | ----------- | ----------- | ----------- |
 | 10.07.2024 | Er. Jiwandeep Singh | Look for opportunity and grab it . How to enjoy college life and how to make future  |
