@@ -12,7 +12,7 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 4. | Chemistry | 91 | A+ |
 | 5. | Mathematics | 93 | A+ |
 
-Result : PASS 455 
+**Result** : PASS 455 
 
 Overall grade : A+
 
