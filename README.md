@@ -3,7 +3,7 @@ I'm Dilpreet Kaur . I belong Salana Dist. Fatehgarh Sahib . I passed my 12 in go
 
 Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 
-**Marksheet : ** 
+**Marksheet** 
 | Sr.no | Subject| Marks | Grade |
 | ----------- | ----------- | ----------- | ----------- |
 | 1. | General English | 83 | A |
