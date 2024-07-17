@@ -25,9 +25,10 @@ Introduction Activity Report:
 | 11.07.2024 | Dr. Parminder Singh | Speak about the college faculties |
 | 11.07.2024 | Dr. H.S. Rai | Speak about the coding world |
 | 12.07.2024 | Math class by Neeraj Sir | Derivative |
-| 12.07.2024 | UHV class by NM Mam | information about UHV | 
+| 12.07.2024 | UHV class by Nisha Mam | information about UHV | 
 | 15.07.2024 | Dr. Randhir Singh | How to make a GitHub page | 
 | 15.07.2024 | Dr. Pyare Lal | How to embrace challenge |
 | 16.07.2024 | Sony Goyal | how to achieving future goals |
 | 16.07.2024 | Mr. Pancham | Speak about body language |
-| 17.07.2024 | Mr . Pancham | Public speaking | 
+| 17.07.2024 | Mr . Pancham | Public speaking |
+| 18.07.2024 | UHV class by Manjot Mam |  
