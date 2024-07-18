@@ -1,4 +1,4 @@
-# Dilpreet.github.io
+posts# Dilpreet.github.io
 I'm Dilpreet Kaur . I belong Salana Dist. Fatehgarh Sahib . I passed my 12 in govt. sen. sec. school , Salana . I got 91% in my class 12  
 
 Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
@@ -33,3 +33,4 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 17.07.2024 | Mr . Pancham | Public speaking |
 | 18.07.2024 | UHV class by Manjot Mam | Understanding Harmony in the Human Being |
 | 18.07.2024 | Math class by Sumit Sir | Integration | 
+| 19.07.2024 | Peer Interaction class by seniors | Excel and Chat GTP |
