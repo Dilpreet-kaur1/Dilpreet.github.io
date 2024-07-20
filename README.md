@@ -28,9 +28,13 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 12.07.2024 | UHV class by Nisha Mam | Introduction to Human Values  | 
 | 15.07.2024 | Dr. Randhir Singh | How to make a GitHub page | 
 | 15.07.2024 | Dr. Pyare Lal | How to embrace challenge |
-| 16.07.2024 | Sony Goyal | how to achieving future goals |
-| 16.07.2024 | Mr. Pancham | Speak about body language |
-| 17.07.2024 | Mr . Pancham | Public speaking |
-| 18.07.2024 | UHV class by Manjot Mam | Understanding Harmony in the Human Being |
-| 18.07.2024 | Math class by Sumit Sir | Integration | 
-| 19.07.2024 | Peer Interaction class by seniors | Excel and Chat GTP |
+| 15.07.2024 | Sony Goyal | how to achieving future goals |
+| 15.07.2024 | Mr. Pancham | Speak about body language |
+| 16.07.2024 | Mr . Pancham | Public speaking |
+| 17.07.2024 | UHV class by Manjot Mam | Understanding Harmony in the Human Being |
+| 17.07.2024 | Math class by Sumit Sir | Integration | 
+| 18.07.2024 | Peer Interaction class by seniors | Excel and Chat GTP |
+| 18.07.2024 | Math class by MK Mam | Application of integral |
+| 19.07.2024 | Er. Kanwardeep Kalra | Speak about Skills | 
+| 19.07.2024 | Jaswinder Singh | Practical science and mathematics | 
+| 19.07.2024 | Mentor Interaction | Department Visit | 
