@@ -1,3 +1,4 @@
+
 posts# Dilpreet.github.io
 I'm Dilpreet Kaur . I belong Salana Dist. Fatehgarh Sahib . I passed my 12 in govt. sen. sec. school , Salana . I got 91% in my class 12  
 
@@ -36,5 +37,10 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 18.07.2024 | Peer Interaction class by seniors | Excel and Chat GTP |
 | 18.07.2024 | Math class by MK Mam | Application of integral |
 | 19.07.2024 | Er. Kanwardeep Kalra | Speak about Skills | 
-| 19.07.2024 | Jaswinder Singh | Practical science and mathematics | 
+| 19.07.2024 | Jaswinder Singh | Explained concept of  science and mathematics | 
 | 19.07.2024 | Mentor Interaction | Department Visit | 
+| 22.07.2024 | Dr.S.B Singh | Activity to Improve determination | 
+| 22.07.2024 | Dr.Pushpinder Singh | kk | 
+| 22.07.2024 | KKK | Motivate  to Save Environment | 
+| 23.07.2024 | Math by SS | Definate integration and some tricks | 
+| 23.07.2024 | Peer Interaction class by seniors | kk | 
