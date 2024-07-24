@@ -43,4 +43,7 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 22.07.2024 | Dr.Pushpinder Singh | kk | 
 | 22.07.2024 | KKK | Motivate  to Save Environment | 
 | 23.07.2024 | Math by SS | Definate integration and some tricks | 
-| 23.07.2024 | Peer Interaction class by seniors | Familiarise use canva
+| 23.07.2024 | Peer Interaction class by seniors | Familiarise use canva | 
+| 24.07.2024 | IOC Mr.Goravdeep Singh | kk | 
+| 24.07.2024 | Er.Lakhveer Singh | Information about NPTEL portal | 
+| 24.07.2024 | By Seniors | Information about Causmic Club | 
