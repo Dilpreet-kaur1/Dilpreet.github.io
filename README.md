@@ -39,7 +39,7 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 19.07.2024 | Er. Kanwardeep Kalra | Speak about Skills | 
 | 19.07.2024 | Jaswinder Singh | Explained concept of  science and mathematics | 
 | 19.07.2024 | Mentor Interaction | Department Visit | 
-| 22.07.2024 | Dr.S.B Singh | Activity to Improve determination | 
+| 22.07.2024 | Dr.S.B Singh | Activity to .jpgImprove determination | 
 | 22.07.2024 | Dr.Pushpinder Singh | kk | 
 | 22.07.2024 | KKK | Motivate  to Save Environment | 
 | 23.07.2024 | Math by SS | Definate integration and some tricks | 
@@ -48,4 +48,4 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 24.07.2024 | Er.Lakhveer Singh | Information about NPTEL portal | 
 | 24.07.2024 | By Seniors | Information about Causmic Club | 
 
-![alt text ] (IMG_20240725_083054)
+![My](IMG_20240725_083054.jpg)
