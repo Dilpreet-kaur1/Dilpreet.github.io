@@ -47,5 +47,7 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 24.07.2024 | IOC Mr.Goravdeep Singh | kk | 
 | 24.07.2024 | Er.Lakhveer Singh | Information about NPTEL portal | 
 | 24.07.2024 | By Seniors | Information about Causmic Club | 
+| 25.07.2024 | UHV class by JK mam | Chapter 3 and 4 | 
+| 25.07.2024 | Peer Interaction class by seniors | Information about college | 
 
 ![IMG_20240725_083054](https://github.com/user-attachments/assets/d12dcb0c-07c6-4bd3-ba0d-69c5298ce9bb)
