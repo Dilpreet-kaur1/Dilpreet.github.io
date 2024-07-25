@@ -48,4 +48,4 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana.
 | 24.07.2024 | Er.Lakhveer Singh | Information about NPTEL portal | 
 | 24.07.2024 | By Seniors | Information about Causmic Club | 
 
-![   IMG_20240725_083054 ] (IMG_20240725_083054)
+![alt text ] (IMG_20240725_083054)
