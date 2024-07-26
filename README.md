@@ -57,6 +57,7 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana and hope i w
 **C LANGUAGE CERTIFICATE**:
 ![Uploading IMG-20230805-WA0020.jpg…]()
 
+![IMG_20240720_090712](https://github.com/user-attachments/assets/f00195ee-1a18-4c4b-ae3f-fd29ee3ffae2)
 
 **CONCLUSION**:
 
