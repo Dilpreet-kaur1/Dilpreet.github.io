@@ -61,4 +61,4 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana and hope i w
 
 Overall , my experience at GNDEC has been very positive. The induction program was well organised and informative, providing a storng start to my college life, The advice for the speakers has motivated me to make the most of my time at the college.
 
-(https://github.com/user-attachments/assets/f00195ee-1a18-4c4b-ae3f-fd29ee3ffae2)
+![IMG_20240720_090712](https://github.com/user-attachments/assets/52091576-93a2-4d2b-a366-6ce15e733a99)
