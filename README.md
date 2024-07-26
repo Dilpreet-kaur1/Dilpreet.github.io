@@ -1,3 +1,4 @@
+![IMG_20240720_090712](https://github.com/user-attachments/assets/8db8973d-8745-43bc-a1e8-8f1a3302e4b4)
 
 # Dilpreet.github.io
 I'm Dilpreet Kaur . I belong Salana Dist. Fatehgarh Sahib . I passed my 12 in govt. sen. sec. school , Salana . I got 91% in my class 12  
