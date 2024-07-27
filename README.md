@@ -58,6 +58,7 @@ Currently, I'm student of BTech CSE branch in GNE college, Ludhiana and hope i w
 ![IMG-20230805-WA0020](https://github.com/user-attachments/assets/c0adc286-e442-4e12-b3b7-9148d656145e)
 
 **C++ CERTIFICATE**:
+![IMG_20240727_123751](https://github.com/user-attachments/assets/dd13e163-f73f-47d1-9aa0-804516e747c1)
 
 **JAVA PROGRAMMING CERTIFICATE**:![IMG_20240727_102003](https://github.com/user-attachments/assets/d5bacfc8-b835-43f6-ac51-497a1f63824d)
 
